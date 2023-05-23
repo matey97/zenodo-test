@@ -1,0 +1,23 @@
+{
+	"title": "Reproducible package for <it>\"TBD\"<\/it>",
+	"creators": [
+		{
+			"name": "Matey Sanz, Miguel",
+			"orcid": "0000-0002-1189-5079",
+			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I" 
+		}
+	],
+	"contributors": [
+		{
+			"name": "c1",
+			"orcid": "0000-0002-1189-5079",
+			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I" 
+		},
+		{
+			"name": "c2",
+			"orcid": "0000-0002-1189-5079",
+			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I" 
+		}
+	],
+	"license": "Apache-2.0"
+}
