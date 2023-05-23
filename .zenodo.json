@@ -11,12 +11,14 @@
 		{
 			"name": "c1",
 			"orcid": "0000-0002-1189-5079",
-			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I" 
+			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I",
+			"type": "Supervisor"
 		},
 		{
 			"name": "c2",
 			"orcid": "0000-0002-1189-5079",
-			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I" 
+			"affiliation": "Institute of New Imaging Technologies, Universitat Jaume I",
+			"type": "Supervisor"
 		}
 	],
 	"license": "Apache-2.0"
